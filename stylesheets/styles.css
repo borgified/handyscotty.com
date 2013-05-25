@@ -900,6 +900,7 @@ footer {
   }
 
   footer {
+		display: none;
     text-align: center;
     margin: 20px auto;
     position: relative;
